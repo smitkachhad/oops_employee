@@ -1,3 +1,10 @@
+/*
+ 1.do data hiding of all properties of emp class 
+ 2.eid only readable, sal should only modify of new sal is greater than old sal
+ 3.create Employee main class
+ 4.Design a method which accept emp details and show details of emp
+ 5.Display count of total emp 
+*/ 
 package oops.Employee_Project_1;
 class Emp
 {
